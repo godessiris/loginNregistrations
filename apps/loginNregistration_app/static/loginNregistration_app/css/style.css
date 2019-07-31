@@ -1,0 +1,40 @@
+
+#main{
+    width:750px;
+
+}
+#registration,#login{
+    display:inline-block;
+    background: darkgray;
+    padding: 20px;
+    vertical-align: top;
+    width: 300px;
+}
+
+#login{
+    margin-left:50px;
+}
+
+#btn-log,#btn-reg{
+    background:lightpink ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+label{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+
+h1{
+    color:palevioletred;
+}
+#notes{
+    color: white;
+    background: black;
+    font-weight: bold;
+}
